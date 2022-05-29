@@ -8,9 +8,8 @@ Personal z-shell (ZSH) configuration.
 - zsh-autosuggestions - Command suggestions based on history and completions.
 - web-search - This plugin adds aliases for searching with Google, Wiki, Bing, YouTube and other popular services.
 You can use the `web-search` plugin in these two forms:
-
-* `web_search <context> <term> [more terms if you want]`
-* `<context> <term> [more terms if you want]`
+  * `web_search <context> <term> [more terms if you want]`
+  * `<context> <term> [more terms if you want]`
 
 - copyfile - Puts the contents of a file in your system clipboard so you can paste it anywhere.
 Then you can run the command `copyfile <filename>` to copy the file named `filename`.
